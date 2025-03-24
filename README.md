@@ -34,4 +34,4 @@ Is it somehow possible to provide this as a middleware to APIs? For sure! The on
 - Ensure to truncate the response to never be above a certain limit
 - Ensure to prefer accepting markdown
 
-^ These are the easiest ones.
+^ These are the easiest ones. Let's do it!
